@@ -1,0 +1,14 @@
+joblib==1.1.1
+matplotlib==3.6.2
+networkx==3.2.1
+numpy==1.23.5
+pandas==2.2.3
+pathpy==2.2.0
+PyYAML==6.0.2
+scikit_learn==1.2.1
+torch==1.13.1
+torch_geometric==2.2.0
+torchtext==0.6.0
+tqdm==4.64.1
+torch-scatter==2.1.0
+torch-sparse==0.6.16
